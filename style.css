@@ -1,0 +1,28 @@
+h1 {color: rgb(145, 100, 63);
+    font-weight: 1000;}
+
+a {color: olive;
+    padding: 0.5em;
+    background-color: white;
+    transition: background-color 250ms ease;}
+
+a:hover {color:white;
+    background-color: olive;}
+
+body {background-color: #d3dab0;}
+
+h2 {color: rgb(52, 107, 47);
+    font-weight: 100;}
+
+p {color: seagreen}
+
+img {max-height: 250px;}
+
+ul {list-style:none;
+    display:flex;
+    justify-content:space-around;}
+
+header {display:flex;
+    justify-content:space-between;}
+
+footer {align-content:end;}
